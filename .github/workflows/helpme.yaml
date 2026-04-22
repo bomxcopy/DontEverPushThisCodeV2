@@ -8,7 +8,7 @@ on:
 permissions:
   contents: read
   security-events: write
-  issues: write
+  issues: write 
   pull-requests: write
   id-token: write
   actions: read
